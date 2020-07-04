@@ -1,0 +1,42 @@
+body {
+	font-family: "Ubuntu";
+	background : #573D1C;
+	color: #ceba47;
+	text-align : center;
+}
+
+
+textarea {
+	font-family: "Ubuntu";
+	display: block;
+	margin: auto;
+
+	padding-top: 10px;
+	margin-bottom: 5px;
+	background: #C8963E;
+	outline: none;
+	border: 1px;
+	text-align: center;
+	border: 20px;
+	width: 30%;
+	height: 10%;
+
+}
+
+button {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	background : #774D1C;
+	color: #ceba47;
+	border: 0px;
+	width: 30%;
+	height: 10%;
+	padding: 10px;
+
+}
+
+button:hover{
+	background: #974d1c;
+}
